@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620784115207",
+    "firebase_url": "https://firecastproyect.firebaseio.com",
+    "project_id": "firecastproyect",
+    "storage_bucket": "firecastproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620784115207:android:f0297fdccd3696732454a2",
+        "android_client_info": {
+          "package_name": "com.gettexttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620784115207-cgha2ohlvbtmefnmohjiast0gb17p111.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6M7Xhr1zcBPGKIjw9z65lvnTc6-CXNt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620784115207-cgha2ohlvbtmefnmohjiast0gb17p111.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
